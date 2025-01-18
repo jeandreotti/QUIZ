@@ -61,7 +61,7 @@ function optionClickEvent(e) {
         correctAnswers++;
     }
 
-    currentQuestion++;
+  
     
     
 }
